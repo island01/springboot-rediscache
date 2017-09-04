@@ -1,0 +1,2 @@
+# springboot-rediscache
+在springboot中托管redis作为mysql的二级缓存
